@@ -1,0 +1,7 @@
+﻿  driver.c
+  test3.c
+  test4.c
+  正在生成代码...
+C:\Users\1\Desktop\slp-week09-lab\lab_garbage_collector\tests\test3.c(63,7): warning C4013: “exit”未定义；假设外部返回 int
+C:\Users\1\Desktop\slp-week09-lab\lab_garbage_collector\tests\test4.c(22,5): warning C4013: “exit”未定义；假设外部返回 int
+  gc.vcxproj -> C:\Users\1\Desktop\slp-week09-lab\lab_garbage_collector\gc\Debug\gc.exe
